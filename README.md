@@ -11,6 +11,7 @@ Smooth and silky  animation on modern websites. Created with HTML and CSS with a
 - HTML&CSS.
 - Javascript.
 - Youtube tutorials.
+- gsap.
 
 
 
